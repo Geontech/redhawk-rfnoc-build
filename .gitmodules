@@ -1,0 +1,40 @@
+[submodule "bitbake"]
+	path = bitbake
+	url = https://github.com/openembedded/bitbake.git
+	branch = 1.36
+[submodule "openembedded-core"]
+	path = openembedded-core
+	url = https://github.com/openembedded/openembedded-core.git
+	branch = rocko
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
+	branch = rocko
+[submodule "meta-sdr"]
+	path = meta-sdr
+	url = https://github.com/balister/meta-sdr.git
+	branch = rocko-gr-next
+[submodule "meta-raspberrypi"]
+	path = meta-raspberrypi
+	url = https://git.yoctoproject.org/git/meta-raspberrypi
+	branch = rocko
+[submodule "meta-qt5"]
+	path = meta-qt5
+	url = https://github.com/meta-qt5/meta-qt5.git
+	branch = rocko
+[submodule "meta-ettus-1"]
+	path = meta-ettus-1
+	url = https://github.com/balister/meta-ettus-1.git
+	branch = rocko-updates
+[submodule "meta-xilinx"]
+	path = meta-xilinx
+	url = https://github.com/Xilinx/meta-xilinx.git
+	branch = rocko
+[submodule "meta-redhawk-sdr"]
+	path = meta-redhawk-sdr
+	url = https://github.com/geontech/meta-redhawk-sdr.git
+	branch = rocko
+[submodule "meta-redhawk-apps"]
+	path = meta-redhawk-apps
+	url = https://github.com/geontech/meta-redhawk-apps.git
+	branch = rocko
