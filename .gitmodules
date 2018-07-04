@@ -22,10 +22,6 @@
 	path = meta-qt5
 	url = https://github.com/meta-qt5/meta-qt5.git
 	branch = rocko
-[submodule "meta-ettus-1"]
-	path = meta-ettus-1
-	url = https://github.com/balister/meta-ettus-1.git
-	branch = rocko-updates
 [submodule "meta-xilinx"]
 	path = meta-xilinx
 	url = https://github.com/Xilinx/meta-xilinx.git
@@ -38,3 +34,7 @@
 	path = meta-redhawk-apps
 	url = https://github.com/geontech/meta-redhawk-apps.git
 	branch = rocko
+[submodule "meta-ettus"]
+	path = meta-ettus
+	url = https://github.com/balister/meta-ettus-1.git
+	branch = rocko-updates
